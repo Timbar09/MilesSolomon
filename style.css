@@ -26,12 +26,39 @@ h1, h2, h3, {
   color: black;
 }
 
-.header {
-  text-align: center;
-  color: #333;
+.image-cover {
+  background-color: white;
+  padding: 0.5rem;
 }
 
-.header__title {}
 
-.header__description {}
+#table {
+  margin: 1rem auto;
+  width: 40rem;
+  text-align: left;
+}
 
+#table {
+  margin: 1rem auto;
+  width: 40rem;
+  text-align: left;
+}
+
+#table li {
+  margin-bottom: 1rem;
+}
+
+#table strong {
+  color: black;
+}
+
+#table p {
+  margin-top: 1rem;
+  font-style: italic;
+}
+
+.foot {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: black;
+}
