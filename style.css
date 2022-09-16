@@ -13,6 +13,11 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #7d7d7d;
+}
+
+h1, h2, h3, {
+  color: black;
 }
 
 .header {
@@ -23,21 +28,4 @@ body {
 .header__title {}
 
 .header__description {}
-.main {
-  text-align: center;
-    color: black;
-    font-style: Cambria Math;
-}
-.ul {
-    color: brown;
-    font-style: italic;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-    text-align: center;
-}
-.li {
-  backgroundcolor: black;
-}
-.strong {
-  textstyle: bold;
-}
+
