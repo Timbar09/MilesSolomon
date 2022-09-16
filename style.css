@@ -23,3 +23,21 @@ body {
 .header__title {}
 
 .header__description {}
+.main {
+  text-align: center;
+    color: black;
+    font-style: Cambria Math;
+}
+.ul {
+    color: brown;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.li {
+  backgroundcolor: black;
+}
+.strong {
+  textstyle: bold;
+}
