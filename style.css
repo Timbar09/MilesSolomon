@@ -11,7 +11,7 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 1rem 0.5rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: #7d7d7d;
 }
@@ -20,18 +20,16 @@ body {
   background-color: #333;
   padding: 2rem 1rem 1rem;
   text-align: center;
+  border-radius: 5px;
 }
 
 h1, h2, h3, {
   color: black;
 }
 
-.header {
-  text-align: center;
-  color: #333;
+.image-cover {
+  background-color: white;
+  padding: 0.5rem;
 }
 
-.header__title {}
-
-.header__description {}
 
