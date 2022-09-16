@@ -14,3 +14,12 @@ body {
   padding: 0;
   font-family: serif;
 }
+
+.header {
+  text-align: center;
+  color: #333;
+}
+
+.header__title {}
+
+.header__description {}
