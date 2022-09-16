@@ -16,6 +16,12 @@ body {
   color: #7d7d7d;
 }
 
+.main {
+  background-color: #333;
+  padding: 2rem 1rem 1rem;
+  text-align: center;
+}
+
 h1, h2, h3, {
   color: black;
 }
